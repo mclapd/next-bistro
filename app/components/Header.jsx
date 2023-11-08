@@ -8,7 +8,7 @@ import Link from "next/link";
 
 const headerVariants = {
   hidden: {
-    padding: "84px 0 84 px 0",
+    padding: "84px 0 84px 0",
     background: "none",
   },
   show: {
