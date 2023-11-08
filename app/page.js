@@ -16,7 +16,7 @@ export default function Home() {
       <Testimonial />
       <Reservation />
       <Footer />
-      <div className="h-[530px] md:h-[380px]"></div>
+      <div className="h-[380px] md:h-[370px]"></div>
     </div>
   );
 }

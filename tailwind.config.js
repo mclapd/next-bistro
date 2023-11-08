@@ -41,7 +41,7 @@ module.exports = {
         menu: "url('/images/menu/bg.png')",
         testimonial: "url('/images/testimonial/bg.png')",
         newsletter: "url('/images/newsletter/bg.png')",
-        footer: "url('a/images/footer/bg.png')",
+        footer: "url('/images/footer/bg.png')",
       },
     },
   },
