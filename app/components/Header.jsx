@@ -87,7 +87,10 @@ const Header = () => {
               className="w-full h-[2px] bg-white"
             ></motion.div>
           </motion.div>
-          <motion.div variants={fadeIn("down", "tween", 1.2, 1.4)}>
+          <motion.div
+            variants={fadeIn("down", "tween", 1.2, 1.4)}
+            className="order-1 lg:order-none lg:ml-[11rem]"
+          >
             <Link href="#">
               <Image
                 className={`${
